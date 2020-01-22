@@ -1,3 +1,10 @@
+#-------------------------------------------------------------#
+#                                        KSP ORBITER          #
+#                                      Github:@WeDias         #
+#                                   Licença: MIT License      #
+#                               Copyright © 2019 Wesley Dias  #
+#-------------------------------------------------------------#
+
 import krpc
 from time import sleep
 from datetime import datetime
