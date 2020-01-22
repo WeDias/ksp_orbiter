@@ -2,7 +2,7 @@
 #                                        KSP ORBITER          #
 #                                      Github:@WeDias         #
 #                                   Licença: MIT License      #
-#                               Copyright © 2019 Wesley Dias  #
+#                               Copyright © 2020 Wesley Dias  #
 #-------------------------------------------------------------#
 
 import krpc
