@@ -3,7 +3,7 @@ Software para controle de foguete, do jogo Kerbal Space Program, com o proposito
 
 ### Sobre o Kerbal Space Program:  
 
-Kerbal Space Program é um jogo de simulação de espacial,
+Kerbal Space Program é um jogo de simulação espacial,
 onde o jogador controla muitos dos aspectos de uma agência espacial, 
 incluindo o financiamento de projetos, concessão de contratos, planejamento de missões,
 design de foguetes, aviões e pilotagem.
