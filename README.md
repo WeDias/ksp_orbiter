@@ -14,4 +14,5 @@ Por ser um jogo de simulação, ele é baseado em física, o que exige certo con
 O kRPC permite controlar o Kerbal Space Program a partir de scripts executados fora do jogo. 
 Ele vem com bibliotecas clientes para muitas linguagens populares, incluindo C # , C ++ , Java , Lua e Python.
 E neste caso escolhi usar Python.
+###### ⚠ Projeto pausado temporariamente devido a volta às aulas.
 ###### ✏️ Desenvolvido por: [*Wesley Dias*](https://github.com/WeDias)
