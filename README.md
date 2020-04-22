@@ -17,8 +17,10 @@ E neste caso escolhi usar Python.
 
 ### Resultado
 https://youtu.be/VzI8jvs8MD8
+[![scb2](https://github.com/WeDias/ksp_orbiter/blob/master/ignorar/orb1.png)](https://youtu.be/VzI8jvs8MD8)
 
 https://youtu.be/RkCojOIV-vU
+[![scb2](https://github.com/WeDias/ksp_orbiter/blob/master/ignorar/orb2.png)](https://youtu.be/RkCojOIV-vU)
 
 ---
 ###### ⚠ Projeto pausado temporariamente devido a volta às aulas.
