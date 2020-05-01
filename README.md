@@ -1,4 +1,6 @@
-# KSP_ORBITER
+<img src="https://github.com/WeDias/ksp_orbiter/blob/master/ignorar/Sinal.gif" width="300">
+
+# KSP_ORBITER 
 Software para controle de foguete, do jogo Kerbal Space Program, com o proposito chegar na orbita baixa de todos os astros do jogo, utilizando o mod KRPC
 
 ### Sobre o Kerbal Space Program:  
